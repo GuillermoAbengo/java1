@@ -13,8 +13,6 @@ public class Holamundo {
 		v.setSize(800, 800);
 		
 		
-		Mipanel
-		setContent Pane (panel); 
 	}
 		
 
