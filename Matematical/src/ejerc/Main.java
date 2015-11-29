@@ -1,0 +1,38 @@
+package ejerc;
+
+public class Main {
+	
+	    public static void main(String[] args){
+	        
+	    	int x = 10;
+	    	int y = 12;
+	    	
+	    	double n = 14.5;
+	    	double m = 16.5; 
+	    	
+	    	System.out.println(x + y);
+	    	System.out.println(x - y);
+	    	System.out.println(n / m);
+	    	System.out.println(n * m);
+	    	System.out.println ("hola Oscar");
+
+
+
+
+	
+	
+    }
+}
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
